@@ -1,5 +1,5 @@
 # encoding: utf-8
-
+# Comment de ejemplo
 $: << File.join(File.dirname(__FILE__), "/../../lib" )
 
 module FakeRailsHelper
